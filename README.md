@@ -2,7 +2,7 @@
 
 ### About Me
 I'm a  programmer specializing in video game development.  I love creating performant systems or interesting game mechanics to allow for a project to really come to life.
-Currently, I am studying Animation & Game at [hda](https://h-da.de/)
+Currently, I am studying Animation & Game at [hda](https://h-da.de/).
 
 ## 💼 Skills
 ### Programming Languages
