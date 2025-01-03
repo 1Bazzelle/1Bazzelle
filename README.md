@@ -14,13 +14,13 @@ Currently, I am studying Animation & Game at [hda](https://h-da.de/).
 
 ## 👾 Projects
 ### Collaborative Projects
-- [Deeper](link): An educational, underwater exploration game, which encourages the player to learn about real world fish species by taking pictures of them.
-- [Jam em Up](link): A point defense game where attack towers gain buffs when placed adjacent to support buildings.
-- [Pirate Game](link): A homework project, in which I familiarized myself with the technical aspects of several Unity Features, like Unity Netcode, ScriptableObjects, or ObjectPools.
+- [Deeper](https://github.com/1Bazzelle/Deeper): An educational, underwater exploration game, which encourages the player to learn about real world fish species by taking pictures of them.
+- [Jam em Up](https://github.com/JoshGamesHda/RR_1.git): A point defense game where attack towers gain buffs when placed adjacent to support buildings.
+- [Pirate Game](link): A homework project, in which I familiarized myself with the technical aspects of several Unity Features, like Unity Netcode, ScriptableObjects, or ObjectPools. I can't upload the source code to this one, because of an Asset Package I used from the University Library.
 
 ### Personal Projects
-- [Combo System](link): In this project, I wanted to create a system that allowed to modularly chain fully customizable attacks together. Here, I also learned about how Custom Editors in Unity work.
-- [Twark](link): A small project, for which the goal was to implement spring physics.
+- [Combo System](https://github.com/1Bazzelle/ComboSystemPrototype): In this project, I wanted to create a system that allowed to modularly chain fully customizable attacks together. Here, I also learned about how Custom Editors in Unity work.
+- [Twark](https://github.com/1Bazzelle/Twark-II): A small project, for which the goal was to implement spring physics.
 - [Jet Game](link): My first Unity Project. It was my introduction to Unity's Transform system and Quaternions. The focus here was to smoothly interpolate the Third Person Camera behind the jet.
 
 ## Github Stats
