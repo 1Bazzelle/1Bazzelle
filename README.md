@@ -21,7 +21,7 @@ Currently, I am studying Animation & Game at [hda](https://h-da.de/).
 ### Personal Projects
 - [Combo System](https://github.com/1Bazzelle/ComboSystemPrototype): In this project, I wanted to create a system that allowed to modularly chain fully customizable attacks together. Here, I also learned about how Custom Editors in Unity work.
 - [Twark](https://github.com/1Bazzelle/Twark-II): A small project, for which the goal was to implement spring physics.
-- [Jet Game](link): My first Unity Project. It was my introduction to Unity's Transform system and Quaternions. The focus here was to smoothly interpolate the Third Person Camera behind the jet.
+- [Jet Game](https://github.com/1Bazzelle/Jet-Game/tree/main): My first Unity Project. It was my introduction to Unity's Transform system and Quaternions. The focus here was to smoothly interpolate the Third Person Camera behind the jet.
 
 ## Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1Bazzelle&show_icons=true&theme=radical)
