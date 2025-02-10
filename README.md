@@ -1,7 +1,7 @@
 ## Hi, I'm Julian ✌️
 
 ### About Me
-I am a  programmer specializing in video game development.  I love creating performant systems and making interesting game mechanics come to life.<br/>
+I am a  programmer specializing in video game development.  I am interested in creating flexible systems and bring interesting game mechanics into life.<br/>
 Currently, I am studying Animation & Game at [hda](https://h-da.de/).
 
 ## 💼 Skills
