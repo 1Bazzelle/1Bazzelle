@@ -1,4 +1,4 @@
-## Hello!! I'm Julian!
+## Hello!! I'm Julian,
 
 ### About Me
 I am mainly a programmer with a focus on video game development, but I am also very interested in learning more about Game Design, Story Telling, and 3D Technical Art.<br/>
